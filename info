@@ -21,3 +21,6 @@ git pull
 9. Временное хранилище для полезного кода
 git stash (положить в стэш)
 git stash apply (вернуть из стэша)
+10. Объединение веток
+git merge
+git rebase
